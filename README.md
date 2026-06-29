@@ -12,7 +12,7 @@
 ## Technical Profile
 
 * **Core Expertise:** Offensive Tool Development, Enterprise Hardening, and Malware Artifact Analysis.
-* **Active Focus:** Simulating APT scenarios (*Active Directory exploitation, lateral movement*) via **Hack The Box**.
+* **Active Focus:** Simulating APT scenarios (*Active Directory exploitation, lateral movement*).
 * **Frameworks:** Mapping offensive research to **MITRE ATT&CK®** and **NIST SP 800-53** compliance controls.
 * **Publications:** Technical intelligence, PoCs, and vulnerability write-ups.
 
