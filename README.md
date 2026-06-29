@@ -1,6 +1,6 @@
 <div align="center">
 
-# Aaron | Security Engineer & Tools Developer
+# Aaron :wave: | Security Engineer & Tools Developer
 
 *"Translating offensive security research into measurable enterprise mitigation."*
 
