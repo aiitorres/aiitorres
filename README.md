@@ -17,7 +17,7 @@
 
 **Frameworks:** Mapping offensive research to MITRE ATT&CK® and NIST SP 800-53 compliance controls.
 
-**Publications:** Technical intelligence, PoCs, and vulnerability write-ups on [Hashnode](https://1010nishant.hashnode.dev/).
+**Publications:** Technical intelligence, PoCs, and vulnerability write-ups on Github.
 
 ---
 
