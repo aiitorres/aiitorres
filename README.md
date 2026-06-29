@@ -7,30 +7,24 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
+## Technical Profile
 
-### Technical Profile
-
-**Core Expertise:** Offensive Tool Development, Enterprise Hardening, and Malware Artifact Analysis.
-
-**Active Focus:** Simulating APT scenarios (Active Directory exploitation, lateral movement) via Hack The Box.
-
-**Frameworks:** Mapping offensive research to MITRE ATT&CK® and NIST SP 800-53 compliance controls.
-
-**Publications:** Technical intelligence, PoCs, and vulnerability write-ups on Github.
+* **Core Expertise:** Offensive Tool Development, Enterprise Hardening, and Malware Artifact Analysis.
+* **Active Focus:** Simulating APT scenarios (*Active Directory exploitation, lateral movement*) via **Hack The Box**.
+* **Frameworks:** Mapping offensive research to **MITRE ATT&CK®** and **NIST SP 800-53** compliance controls.
+* **Publications:** Technical intelligence, PoCs, and vulnerability write-ups.
 
 ---
 
-### Featured Security Projects
+## Featured Security Projects
 
 | Project | Core Function | Tech Stack |
-| :---: | :---: | :---: |
-| **AetherNexus** | Static Malware Analysis & Deobfuscation Engine | Python, Static Binary Analysis |
-| **AetherNet** | Evasion-Focused Network Reconnaissance | Python, Async Sockets, IDS/IPS Bypass |
-| **SentinelAuth** | Zero-Trust Identity & Anti-Brute Force Layer | Node.js, Cryptography, JWT Matrix |
-
----
+| :--- | :--- | :--- |
+| 🛡️ **AetherNexus** | Static Malware Analysis & Deobfuscation Engine | `Python` `Static Binary Analysis` |
+| 🌐 **AetherNet** | Evasion-Focused Network Reconnaissance | `Python` `Async Sockets` `IDS/IPS Bypass` |
+| 🔑 **SentinelAuth** | Zero-Trust Identity & Anti-Brute Force Layer | `Node.js` `Cryptography` `JWT Matrix` |
 
 ### Contact & Connect
 
