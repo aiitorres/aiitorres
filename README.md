@@ -33,8 +33,6 @@
 
 ### Contact & Connect
 
-[Email](mailto:aaron.fzb@gmail.com) | [Discord](https://discord.gg/vtyQrnDa)
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
