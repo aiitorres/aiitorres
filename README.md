@@ -44,7 +44,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,git,aws,ai, ae, css,docker,jquery,latex,linux,md,mint,mongodb,mysql,nextjs,github,html,java,nodejs,nginx,notion,obsidian,perl,php,powershell,ruby,sqlite,vscode,kali,visualstudio,windows,wordpress,ps&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,js,git,aws,ai,ae,css,docker,jquery,latex,linux,md,mint,mongodb,mysql,nextjs,github,html,java,nodejs,nginx,notion,obsidian,perl,php,powershell,ruby,sqlite,vscode,kali,visualstudio,windows,wordpress,ps&perline=14" />
   </a>
 </p>
 
