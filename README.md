@@ -4,7 +4,7 @@
 
 *"Translating offensive security research into measurable enterprise mitigation."*
 
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
 </div>
 
 
