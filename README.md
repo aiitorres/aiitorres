@@ -1,27 +1,38 @@
+<div align="center">
+
 # Aaron | Security Engineer & Tools Developer
 
-> "Translating offensive security research into measurable enterprise mitigation."
+*"Translating offensive security research into measurable enterprise mitigation."*
 
 ---
 
 ### Technical Profile
 
-*   **Core Expertise:** Offensive Tool Development, Enterprise Hardening, and Malware Artifact Analysis.
-*   **Active Focus:** Simulating APT scenarios (Active Directory exploitation, lateral movement) via Hack The Box.
-*   **Frameworks:** Mapping offensive research to MITRE ATT&CK® and NIST SP 800-53 compliance controls.
-*   **Publications:** Technical intelligence, PoCs, and vulnerability write-ups on [Hashnode](https://1010nishant.hashnode.dev/).
+**Core Expertise:** Offensive Tool Development, Enterprise Hardening, and Malware Artifact Analysis.
+
+**Active Focus:** Simulating APT scenarios (Active Directory exploitation, lateral movement) via Hack The Box.
+
+**Frameworks:** Mapping offensive research to MITRE ATT&CK® and NIST SP 800-53 compliance controls.
+
+**Publications:** Technical intelligence, PoCs, and vulnerability write-ups on [Hashnode](https://1010nishant.hashnode.dev/).
 
 ---
 
 ### Featured Security Projects
 
 | Project | Core Function | Tech Stack |
-| :--- | :--- | :--- |
+| :---: | :---: | :---: |
 | **AetherNexus** | Static Malware Analysis & Deobfuscation Engine | Python, Static Binary Analysis |
 | **AetherNet** | Evasion-Focused Network Reconnaissance | Python, Async Sockets, IDS/IPS Bypass |
 | **SentinelAuth** | Zero-Trust Identity & Anti-Brute Force Layer | Node.js, Cryptography, JWT Matrix |
 
 ---
+
+### Contact & Connect
+
+[Email](mailto:aaron.fzb@gmail.com) | [Discord](https://discord.gg/vtyQrnDa)
+
+</div>
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
