@@ -14,21 +14,16 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+### Technical Profile & Security Research
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
-
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
-
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
-
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
-<!--Intro end-->
-
+*   **Core Expertise:** Offensive Tool Development, Enterprise Architecture Hardening, and Malware Artifact Analysis. Focused on engineering resilient security utilities and auditing complex enterprise attack surfaces.
+*   **Core Security Engineering Projects:**
+    *   **AetherNexus (Static Malware Analysis & Deobfuscation Engine):** Architected a high-performance Python framework engineered for static binary analysis, control-flow graph reconstruction, and automated deobfuscation of high-level compiler payloads to isolate malicious indicators of compromise (IoCs).
+    *   **AetherNet (Evasion-Focused Reconnaissance):** Engineered an asynchronous network enumeration engine that manipulates raw socket layers to map enterprise infrastructure while systematically bypassing heuristic IDS/IPS detection algorithms.
+    *   **SentinelAuth (Zero-Trust Identity Framework):** Developed an immutable backend security layer utilizing strict JWT rotation matrixes, cryptographic salting, and automated rate-limiting blocks to neutralize advanced brute-force vectors.
+*   **Applied Infrastructure Auditing:** Actively simulating Advanced Persistent Threat (APT) scenarios inside simulated enterprise networks. Specializing in Active Directory exploitation, cross-forest lateral movement, and kernel-level privilege escalation.
+*   **Threat Frameworks & Compliance:** Mapping offensive research directly to the MITRE ATT&CK Matrix and NIST SP 800-53 controls to ensure tactical exploits translate into measurable enterprise defense metrics.
+*   **Technical Intelligence:** Publishing deep-dive vulnerability write-ups, proof-of-concepts (PoCs), and malware analysis briefs on Hashnode.
 
 
 <!--- stats & Trophy (start) -->
