@@ -4,6 +4,7 @@
 
 *"Translating offensive security research into measurable enterprise mitigation."*
 
+</div>
 ---
 
 ### Technical Profile
@@ -32,7 +33,6 @@
 
 [Email](mailto:aaron.fzb@gmail.com) | [Discord](https://discord.gg/vtyQrnDa)
 
-</div>
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
