@@ -1,31 +1,27 @@
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Aaron</h1></summary>
-  </ul>
-</div>
+# Aaron | Security Engineer & Tools Developer
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
+> "Translating offensive security research into measurable enterprise mitigation."
 
+---
 
-<!--Intro start-->
-### Technical Profile & Security Research
+### Technical Profile
 
-*   **Core Expertise:** Offensive Tool Development, Enterprise Architecture Hardening, and Malware Artifact Analysis. Focused on engineering resilient security utilities and auditing complex enterprise attack surfaces.
-*   **Core Security Engineering Projects:**
-    *   **AetherNexus (Static Malware Analysis & Deobfuscation Engine):** Architected a high-performance Python framework engineered for static binary analysis, control-flow graph reconstruction, and automated deobfuscation of high-level compiler payloads to isolate malicious indicators of compromise (IoCs).
-    *   **AetherNet (Evasion-Focused Reconnaissance):** Engineered an asynchronous network enumeration engine that manipulates raw socket layers to map enterprise infrastructure while systematically bypassing heuristic IDS/IPS detection algorithms.
-    *   **SentinelAuth (Zero-Trust Identity Framework):** Developed an immutable backend security layer utilizing strict JWT rotation matrixes, cryptographic salting, and automated rate-limiting blocks to neutralize advanced brute-force vectors.
-*   **Applied Infrastructure Auditing:** Actively simulating Advanced Persistent Threat (APT) scenarios inside simulated enterprise networks. Specializing in Active Directory exploitation, cross-forest lateral movement, and kernel-level privilege escalation.
-*   **Threat Frameworks & Compliance:** Mapping offensive research directly to the MITRE ATT&CK Matrix and NIST SP 800-53 controls to ensure tactical exploits translate into measurable enterprise defense metrics.
-*   **Technical Intelligence:** Publishing deep-dive vulnerability write-ups, proof-of-concepts (PoCs), and malware analysis briefs on Hashnode.
+*   **Core Expertise:** Offensive Tool Development, Enterprise Hardening, and Malware Artifact Analysis.
+*   **Active Focus:** Simulating APT scenarios (Active Directory exploitation, lateral movement) via Hack The Box.
+*   **Frameworks:** Mapping offensive research to MITRE ATT&CK® and NIST SP 800-53 compliance controls.
+*   **Publications:** Technical intelligence, PoCs, and vulnerability write-ups on [Hashnode](https://1010nishant.hashnode.dev/).
 
+---
 
+### Featured Security Projects
+
+| Project | Core Function | Tech Stack |
+| :--- | :--- | :--- |
+| **AetherNexus** | Static Malware Analysis & Deobfuscation Engine | Python, Static Binary Analysis |
+| **AetherNet** | Evasion-Focused Network Reconnaissance | Python, Async Sockets, IDS/IPS Bypass |
+| **SentinelAuth** | Zero-Trust Identity & Anti-Brute Force Layer | Node.js, Cryptography, JWT Matrix |
+
+---
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
