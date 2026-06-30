@@ -24,7 +24,7 @@
 
 | Project | Core Function | Tech Stack |
 | :--- | :--- | :--- |
-| **AetherNexus** | Static Malware Analysis & Deobfuscation Engine | `Python` `Static Binary Analysis` |
+| **Sixeyes** | Static Malware Analysis & Deobfuscation Engine | `Python` `Static Binary Analysis` |
 | **AetherNet** | Evasion-Focused Network Reconnaissance | `Python` `Async Sockets` `IDS/IPS Bypass` |
 | **SentinelAuth** | Zero-Trust Identity & Anti-Brute Force Layer | `Node.js` `Cryptography` `JWT Matrix` |
 </div>
