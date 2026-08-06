@@ -2,9 +2,6 @@
 
 # aiitorres | Security Engineer & Tools Developer
 
-*"Translating offensive security research into measurable enterprise mitigation."*
-
-
 </div>
 
 ---
