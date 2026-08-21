@@ -1,35 +1,6 @@
 <div align="center">
 
-# aiitorres | Security Engineer & Tools Developer
-
-</div>
-
----
-
-## Technical Profile
-
-* **Core Expertise:** Offensive Tool Development, Enterprise Hardening, and Malware Artifact Analysis.
-* **Active Focus:** Simulating APT scenarios (*Active Directory exploitation, lateral movement*).
-* **Frameworks:** Mapping offensive research to **MITRE ATT&CK®** and **NIST SP 800-53** compliance controls.
-* **Publications:** Technical intelligence, PoCs, and vulnerability write-ups.
-
----
-
-## Featured Security Projects
-<div align="center">
-
-
-| Project | Core Function | Tech Stack |
-| :--- | :--- | :--- |
-| **Sixeyes** | Static Malware Analysis & Deobfuscation Engine | `Python` `Static Binary Analysis` |
-| **AetherNet** | Evasion-Focused Network Reconnaissance | `Python` `Async Sockets` `IDS/IPS Bypass` |
-| **Gatekeeper** | Zero-Trust Identity & Anti-Brute Force Layer | `Node.js` `Cryptography` `JWT Matrix` |
-</div>
-
-### Contact & Connect
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
+# aiitorres
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know</h2></summary>
   </ul>
