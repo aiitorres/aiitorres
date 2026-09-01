@@ -3,7 +3,7 @@
 <!--tech stack icons-->
 <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,rust,git,aws,css,docker,jquery,latex,linux,mongodb,mysql,nextjs,github,html,nodejs,nginx,php,powershell,sqlite,kali,windows,wordpress&perline=13" />
+    <img src="https://skillicons.dev/icons?i=py,js,rust,git,aws,css,docker,jquery,latex,linux,mongodb,mysql,nextjs,github,html,nodejs,nginx,php,powershell,sqlite,windows,wordpress&perline=13" />
   </a>
 </p>
 
