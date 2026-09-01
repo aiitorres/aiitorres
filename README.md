@@ -1,12 +1,9 @@
-<div align="center">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know</h2></summary>
-  </ul>
-</div>
+<h2 align="center">Technologies That I Know</h2>
+
 <!--tech stack icons-->
 <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,rust,git,aws,css,docker,jquery,latex,linux,mongodb,mysql,nextjs,github,html,java,nodejs,nginx,perl,php,powershell,sqlite,kali,windows,wordpress&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,js,rust,git,aws,css,docker,jquery,latex,linux,mongodb,mysql,nextjs,github,html,java,nodejs,nginx,perl,php,powershell,sqlite,kali,windows,wordpress&perline=13" />
   </a>
 </p>
 
